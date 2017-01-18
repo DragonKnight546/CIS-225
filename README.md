@@ -1,2 +1,2 @@
 # CIS-225
-Hold all my assignments for CIS 225
+Holds all my assignments for CIS 225

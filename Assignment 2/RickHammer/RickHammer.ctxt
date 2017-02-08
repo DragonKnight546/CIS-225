@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=tempWood\ tempDrawers\ tempWidth\ tempLength
+comment0.target=RickHammer(int,\ int,\ int,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ RickHammer\r\n\ Wood\:\ 0\ \=\ Pine,\ 1\ \=\ Mahogany,\ 2\ \=\ Oak\r\n\ Drawers\:\ Number\ of\ drawers\ in\ desk\r\n\ Width\:\ Width\ in\ inches\r\n\ Length\:\ length\ in\ inches\r\n
+comment1.params=tempWood
+comment1.target=void\ setWood(int)
+comment2.params=
+comment2.target=int\ getWood()
+comment3.params=tempDrawers
+comment3.target=void\ setDrawers(int)
+comment4.params=
+comment4.target=int\ getDrawers()
+comment5.params=tempWidth
+comment5.target=void\ setWidth(int)
+comment6.params=
+comment6.target=int\ getWidth()
+comment7.params=tempLength
+comment7.target=void\ setLength(int)
+comment8.params=
+comment8.target=int\ getLength()
+comment9.params=
+comment9.target=void\ calcTotal()
+numComments=10

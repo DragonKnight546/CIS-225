@@ -1,0 +1,35 @@
+#BlueJ class context
+comment0.params=design\ feature1\ feature2\ feature3\ feature4\ feature5
+comment0.target=WebSite(int,\ boolean,\ boolean,\ boolean,\ boolean,\ boolean)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ WebSite\r\n\ design\:\ 0\ \=\ Nature,\ 1\ \=\ Tech,\ 2\ \=\ Business,\ 3\ \=\ Music,\ 4\ \=\ Naughty\r\n\ feature1-5\:\ True/False\ if\ true\ feature\ is\ added\r\n
+comment1.params=design
+comment1.target=void\ setDesign(int)
+comment10.params=
+comment10.target=boolean\ getFeature4()
+comment11.params=feature5
+comment11.target=void\ setFeature5(boolean)
+comment12.params=
+comment12.target=boolean\ getFeature5()
+comment13.params=
+comment13.target=int\ getPrice()
+comment14.params=
+comment14.target=void\ calcTotal()
+comment15.params=
+comment15.target=void\ displayTotal()
+comment2.params=
+comment2.target=int\ getDesign()
+comment3.params=feature1
+comment3.target=void\ setFeature1(boolean)
+comment4.params=
+comment4.target=boolean\ getFeature1()
+comment5.params=feature2
+comment5.target=void\ setFeature2(boolean)
+comment6.params=
+comment6.target=boolean\ getFeature2()
+comment7.params=feature3
+comment7.target=void\ setFeature3(boolean)
+comment8.params=
+comment8.target=boolean\ getFeature3()
+comment9.params=feature4
+comment9.target=void\ setFeature4(boolean)
+numComments=16
